@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.jb.bunchofwalls;
 
 public class Wallpaper {
 

@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.jb.bunchofwalls;
 
 import java.util.ArrayList;
 import java.util.List;

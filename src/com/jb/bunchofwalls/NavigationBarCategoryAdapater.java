@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.jb.bunchofwalls;
 
 import android.content.Context;
 import android.database.DataSetObserver;
